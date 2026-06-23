@@ -1,92 +1,157 @@
-# Hi 👋, I'm Sadiya
+<div align="center">
 
-### Computer Science Engineering Student | Frontend Developer | Aspiring Full Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sadiya%20Banu&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-🌱 Currently learning **React.js, JavaScript, Python, and Web Development**
+# 👋 Hi, I'm Sadiya Banu
 
-💻 Passionate about building user-friendly web applications and solving real-world problems through technology.
+### 💻 Frontend Developer | React Enthusiast | Python Programmer
 
-🎯 Goal: To become a skilled Full Stack Developer and contribute to impactful software projects.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Frontend+Developer;React+Developer;Python+Programmer;Building+Real+World+Projects;Always+Learning+New+Things" />
 
----
-
-## 🚀 About Me
-
-- 🎓 B.E. in Computer Science Engineering
-- 📍 Karnataka, India
-- 💡 Interested in Web Development, UI/UX, and AI-powered Applications
-- 🌱 Currently improving my React and Backend Development skills
-- 🤝 Open to Internship and Collaboration Opportunities
-- 📚 Always eager to learn new technologies
+</div>
 
 ---
 
-## 🛠️ Skills
+## 💎 About Me
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+✨ Passionate about creating modern and responsive web applications
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+🎓 Computer Science Engineering Student
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🌱 Currently learning Full Stack Development
+
+💻 Strong interest in Frontend Development and UI/UX
+
+🚀 Building projects that solve real-world problems
+
+🎯 Goal: Become a skilled Software Engineer and Full Stack Developer
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-### 🍽️ MealMate App
-A recipe management web application where:
-- Users can manage their recipes efficiently
-- Vendors can perform CRUD operations
-- Responsive and user-friendly interface
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,mysql,git,github,vscode" />
+
+</div>
+
+### Languages & Technologies
+
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+- React.js
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ MealMate
+
+Recipe Management Web Application
+
+✅ Manage personal recipes
+
+✅ Responsive UI
+
+✅ User-friendly experience
+
+✅ Vendor CRUD Operations
 
 **Tech Stack:** React, JavaScript, CSS
 
-### 💇 MyClickBook
-An AI-powered salon booking platform that allows:
-- Online appointment booking
-- Reduced customer waiting time
-- AI hairstyle recommendations using customer photos
-- Vendor dashboard management
+---
 
-**Tech Stack:** React, JavaScript, Node.js
+### 💇 MyClickBook
+
+AI-Powered Salon Booking Platform
+
+✅ Smart appointment booking
+
+✅ Vendor dashboard management
+
+✅ Reduced waiting time
+
+✅ AI Hairstyle Recommendations
+
+✅ Better customer experience
+
+**Tech Stack:** React, JavaScript, SQL
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sadiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadiya366&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiya366&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sadiya366&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiya366&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sadiya366&theme=tokyonight)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sadiya366&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sadiya366&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
+<a href="https://sadiyabanu.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### ✨ Quote
+<div align="center">
 
-> "Success comes through hard work, consistency, and continuous learning."
+## 💫 Favorite Quote
 
-⭐ Thank you for visiting my profile!
+### ✨ "Success comes through hard work, consistency, and continuous learning."
+
+<img src="https://komarev.com/ghpvc/?username=Sadiya366&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Keep learning, keep building, keep growing."*
+
+</div>
